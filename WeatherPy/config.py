@@ -1,2 +1,3 @@
 #  Add your API key
-api_key = ""
+g_key = ""
+weather_api_key = ""
